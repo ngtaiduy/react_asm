@@ -1,0 +1,168 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Quần áo"
+    },
+    {
+      "id": 2,
+      "name": "Truyện"
+    },
+    {
+      "id": 3,
+      "name": "Laptop"
+    },
+    {
+      "id": 4,
+      "name": "Lapto2p"
+    },
+    {
+      "id": "4303042240361015",
+      "name": "Duy1"
+    },
+    {
+      "id": "20611151022615412",
+      "name": "Edwin Hyatt"
+    }
+  ],
+  "products": [
+    {
+      "createdAt": "2021-08-04T12:43:11.310Z",
+      "name": "Bridget Weissnat",
+      "price": 255,
+      "categoryId": 1,
+      "image": "http://placeimg.com/640/480/business",
+      "detail": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "updatedAt": "2021-08-03T18:56:59.789Z",
+      "id": "1"
+    },
+    {
+      "createdAt": "2021-08-03T18:46:04.178Z",
+      "name": "Brad Barton",
+      "price": 892,
+      "categoryId": 2,
+      "image": "http://placeimg.com/640/480/technics",
+      "detail": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "updatedAt": "2021-08-04T03:00:38.312Z",
+      "id": "2"
+    },
+    {
+      "createdAt": "2021-08-04T10:47:49.783Z",
+      "name": "Dana Windler",
+      "price": 742,
+      "categoryId": 3,
+      "image": "http://placeimg.com/640/480/cats",
+      "detail": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "updatedAt": "2021-08-03T15:37:38.908Z",
+      "id": "3"
+    },
+    {
+      "createdAt": "2021-08-04T08:25:47.446Z",
+      "name": "Fred Wiegand V",
+      "price": 995,
+      "categoryId": 2,
+      "image": "http://placeimg.com/640/480/sports",
+      "detail": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "updatedAt": "2021-08-03T20:17:33.916Z",
+      "id": "4"
+    },
+    {
+      "createdAt": "2021-08-04T07:18:29.230Z",
+      "name": "Alan Weissnat III",
+      "price": 661,
+      "categoryId": 3,
+      "image": "http://placeimg.com/640/480/animals",
+      "detail": "The Football Is Good For Training And Recreational Purposes",
+      "updatedAt": "2021-08-04T09:01:32.175Z",
+      "id": "5"
+    },
+    {
+      "createdAt": "2021-08-04T06:33:52.263Z",
+      "name": "Virgil Marks",
+      "price": 872,
+      "categoryId": 1,
+      "image": "http://placeimg.com/640/480/animals",
+      "detail": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "updatedAt": "2021-08-03T15:14:32.146Z",
+      "id": "6"
+    },
+    {
+      "createdAt": "2021-08-04T05:50:40.133Z",
+      "name": "Robin Tillman",
+      "price": 463,
+      "categoryId": 1,
+      "image": "http://placeimg.com/640/480/abstract",
+      "detail": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "updatedAt": "2021-08-04T08:50:00.688Z",
+      "id": "7"
+    },
+    {
+      "createdAt": "2021-08-03T16:21:25.386Z",
+      "name": "Miss Amos Yundt",
+      "price": 242,
+      "categoryId": 3,
+      "image": "http://placeimg.com/640/480/fashion",
+      "detail": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "updatedAt": "2021-08-04T11:38:52.100Z",
+      "id": "8"
+    },
+    {
+      "createdAt": "2021-08-04T07:42:00.301Z",
+      "name": "Bert Boyer",
+      "price": 534,
+      "categoryId": 2,
+      "image": "http://placeimg.com/640/480/animals",
+      "detail": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "updatedAt": "2021-08-04T09:19:56.298Z",
+      "id": "9"
+    },
+    {
+      "createdAt": "2021-08-03T22:13:04.333Z",
+      "name": "Toni Schoen",
+      "price": 699,
+      "categoryId": 3,
+      "image": "http://placeimg.com/640/480/fashion",
+      "detail": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "updatedAt": "2021-08-04T01:26:51.600Z",
+      "id": "10"
+    },
+    {
+      "id": "6334323363266066",
+      "name": "1",
+      "price": 3,
+      "categoryId": "1",
+      "image": "https://d1vm37nfym7tjl.cloudfront.net/web/image/product.image/195/image_1024/B%C3%A0n%20ph%C3%ADm%20c%C6%A1%20Filco%20Majestouch%202%20%28Tenkeyless%29?unique=efdbd46",
+      "detail": "1"
+    },
+    {
+      "id": "2336402162366022",
+      "name": "1",
+      "price": 1,
+      "categoryId": "3",
+      "image": "https://cellphones.com.vn/sforum/wp-content/uploads/2020/02/BP-1-scaled.jpg",
+      "detail": "1"
+    },
+    {
+      "id": "3333661530611211",
+      "name": "NTD",
+      "price": 291997,
+      "categoryId": "2",
+      "image": "https://d1vm37nfym7tjl.cloudfront.net/web/image/product.image/195/image_1024/B%C3%A0n%20ph%C3%ADm%20c%C6%A1%20Filco%20Majestouch%202%20%28Tenkeyless%29?unique=efdbd46",
+      "detail": "NTD29"
+    }
+  ],
+  "users": [
+    {
+      "email": "duyntph12791@fpt.edu.vn",
+      "password": "$2a$10$.iGuncodMVJhFO0dIofCC.EIVLpuIRHRO77qKKpp0YgS7u8PTqTGy",
+      "username": "duyntph12791",
+      "id": 1
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$3D0uRjhUZkbXVc.zq47ZyOhNIqj4.PLjN/SnuwSfCrh.Qri8TZbOi",
+      "username": "abc",
+      "id": 2
+    }
+  ]
+}
